@@ -16,3 +16,8 @@ h2 {
   .iutehonhe {
     background-color: white;
   }
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
